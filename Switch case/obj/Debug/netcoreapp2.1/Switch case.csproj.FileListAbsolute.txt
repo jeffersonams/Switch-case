@@ -1,0 +1,11 @@
+D:\Projetos\CURSO CSHARP\Switch case\Switch case\bin\Debug\netcoreapp2.1\Switch case.deps.json
+D:\Projetos\CURSO CSHARP\Switch case\Switch case\bin\Debug\netcoreapp2.1\Switch case.runtimeconfig.json
+D:\Projetos\CURSO CSHARP\Switch case\Switch case\bin\Debug\netcoreapp2.1\Switch case.runtimeconfig.dev.json
+D:\Projetos\CURSO CSHARP\Switch case\Switch case\bin\Debug\netcoreapp2.1\Switch case.dll
+D:\Projetos\CURSO CSHARP\Switch case\Switch case\bin\Debug\netcoreapp2.1\Switch case.pdb
+D:\Projetos\CURSO CSHARP\Switch case\Switch case\obj\Debug\netcoreapp2.1\Switch case.csprojAssemblyReference.cache
+D:\Projetos\CURSO CSHARP\Switch case\Switch case\obj\Debug\netcoreapp2.1\Switch case.csproj.CoreCompileInputs.cache
+D:\Projetos\CURSO CSHARP\Switch case\Switch case\obj\Debug\netcoreapp2.1\Switch case.AssemblyInfoInputs.cache
+D:\Projetos\CURSO CSHARP\Switch case\Switch case\obj\Debug\netcoreapp2.1\Switch case.AssemblyInfo.cs
+D:\Projetos\CURSO CSHARP\Switch case\Switch case\obj\Debug\netcoreapp2.1\Switch case.dll
+D:\Projetos\CURSO CSHARP\Switch case\Switch case\obj\Debug\netcoreapp2.1\Switch case.pdb
